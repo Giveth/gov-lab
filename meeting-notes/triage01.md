@@ -54,5 +54,20 @@ Wiki reorg left with unpolished nav
 ### Proposal
 PR here: https://github.com/Giveth/giveth-wiki/pull/66
 
+---
+
 ## Tension 4
-Hackmd stuff; ideally we would write notes in Atom live together and then create a pull request after the meeting closes so they land in a shared Giveth wiki.
+There is a constant problem with using *hackmd.io* for notes and *Google Drive* for working spreadsheets in that no lists are kept to reference those (i.e. to find the *Roles Sheet* I rely on the autocomplete function of my browser, but there is no list of current working docs).
+
+For *hackmd.io* notes this is usually resolved through accountabilities of gov-circle-maintainer who makes sure the notes get republished on the Wiki.
+
+### Proposal
+Maintain a list of working docs. Discussion: Where? And for a possible solution see Tension 4.
+
+---
+
+# Tension 4
+We have a lack of threaded discussion technology to use for conversations that stretch over months. We are kinda using loomio for this, but because that is not the primary purpose of the platform, it does not work really well in that regard. Also we would benefit from "stickied-topics"
+
+### Proposal
+Run a self hosted discourse and establish real forum technology as a complement to our current toolset.
