@@ -55,4 +55,4 @@ Wiki reorg left with unpolished nav
 PR here: https://github.com/Giveth/giveth-wiki/pull/66
 
 ## Tension 4
-Hackmd stuff; ideally we would write notes in Atom live together and then create a pull request after the meeting closes so they land in a shared wiki. 
+Hackmd stuff; ideally we would write notes in Atom live together and then create a pull request after the meeting closes so they land in a shared Giveth wiki.
