@@ -1,31 +1,73 @@
-Giveth Governance Meeting #XXXXX
-March XXth, 2018
-Youtube Livestream - XXX
-Attending
+# Giveth Governance Meeting #XXXXX
+
+
+Month XXth, 20XX
+
+
+Youtube Livestream - [XXX](XXX)
+
+
+### Attending
+
 XXX, XXX
-dropped-in: XXX left-early: XXX
-Check-in
+
+dropped-in: XXX
+left-early: XXX
+
+
+###  Check-in
+
 XXX - intentions, expectations, distractions
-Logistics
+
+### Logistics
+
 Toggled-Off: XXX
-Agenda
-Point1: XXX
-Point1
-Tension
+
+
+
+## Agenda
+
+*   Point1: XXX
+
+
+### Point1
+
+
+#### Tension
+
 XXX
-Proposal
+
+
+#### Proposal
+
 XXX
-Clarifying Questions
+
+#### Clarifying Questions
+
 XXX
-Reactions
+
+#### Reactions
+
 XXX - Reaction
-Amend and Clarify
+
+
+#### Amend and Clarify
+
 XXX
-Result
+
+#### Result
+
 Approved/Tabled/Rejected
-Recap
+
+
+## Recap
+
 XXX
-Check-out
+
+## Check-out
+
 XXX: Checkout
-End of meeting
-00:0
+
+## End of meeting
+
+00:00
