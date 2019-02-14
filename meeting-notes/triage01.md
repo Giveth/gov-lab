@@ -66,7 +66,7 @@ Maintain a list of working docs. Discussion: Where? And for a possible solution 
 
 ---
 
-# Tension 4
+## Tension 5
 We have a lack of threaded discussion technology to use for conversations that stretch over months. We are kinda using loomio for this, but because that is not the primary purpose of the platform, it does not work really well in that regard. Also we would benefit from "stickied-topics"
 
 ### Proposal
