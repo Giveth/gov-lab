@@ -1,5 +1,5 @@
 Giveth Governance Meeting #XXXXX
-March XXth, 2018
+Month XXth, 20XX
 Youtube Livestream - XXX
 Attending
 XXX, XXX
