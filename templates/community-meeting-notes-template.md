@@ -9,7 +9,6 @@ Youtube Livestream - [XXX](XXX)
 
 ### Attending
 
-=======
 Giveth Governance Meeting #XXXXX
 Month XXth, 20XX
 Youtube Livestream - XXX
@@ -34,6 +33,7 @@ Toggled-Off: XXX
 ## Agenda
 
 *   Point1: XXX
+*   Point2: XXX
 
 
 ### Point1
