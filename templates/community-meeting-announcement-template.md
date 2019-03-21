@@ -1,6 +1,6 @@
 @room join us for:
 
-# Community meeting #65
+# Community meeting #XXX
 begins in XXXXXXXXXXX from now (6pm CET) and takes place at
 
 https://meet.jit.si/giveth-dac
