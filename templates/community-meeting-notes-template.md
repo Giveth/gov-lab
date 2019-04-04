@@ -7,27 +7,19 @@ Month XXth, 20XX
 Youtube Livestream - [XXX](XXX)
 
 
-### Attending
-
-Giveth Governance Meeting #XXXXX
-Month XXth, 20XX
-Youtube Livestream - XXX
+### Logistics
 
 Attending
 XXX, XXX
 
 dropped-in: XXX
 left-early: XXX
+toggled-off: XXX
 
 
 ###  Check-in
 
 XXX - intentions, expectations, distractions
-
-### Logistics
-
-Toggled-Off: XXX
-
 
 
 ## Agenda
